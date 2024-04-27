@@ -29,7 +29,7 @@ import React from 'react'
             <a href="#projects" className="cursor-pointer">
               Projects
             </a>
-            <a href="https://contact-form-ex3g3jy0g-paras-projects-19ce3062.vercel.app/" className="cursor-pointer">
+            <a href="https://contact-form-henna.vercel.app/" className="cursor-pointer">
               Contact Me
             </a>
           </div>
